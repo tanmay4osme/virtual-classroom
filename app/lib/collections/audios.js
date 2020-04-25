@@ -10,7 +10,7 @@
 
 Audios = new FilesCollection({
 	debug: false,
-	storagePath: '/vr/audios',
+	storagePath: 'vr/audios',
 	permissions: 0774,
 	parentDirPermissions: 0774,
 	collectionName: 'Audios',
